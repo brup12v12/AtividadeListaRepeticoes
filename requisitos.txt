@@ -1,0 +1,6 @@
+ok-Saber o total do número de alunos.
+
+ok-Percorrer de 0 até o número total de alunos
+ok-Se o número for 0, escrever "Zero" na tela;
+ok-Se o número for ímpar, escrever "Ímpar" na tela;
+ok-Se o número for par, escrever "Par" na tela;
